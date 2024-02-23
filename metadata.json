@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "ArunikaNode",
+  "website": "https://medium.com/@ekko.nodes",
+  "description": "Making Node Setup Effortless.",
+  "logo": "https://raw.githubusercontent.com/Ekkoo09/eigenlayer-Ekko-Nodes/main/EkkoNodes.png",
+  "twitter": "https://twitter.com/BlueDeAmoure"
 }
